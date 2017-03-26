@@ -1,0 +1,24 @@
+<ion-view view-title="Ionic 1 + MFP 8">
+  <ion-content class="padding mfp">
+    <small>{{serverurl}}</small>
+
+    <button ng-click="greetAdapter()" class="button button-block button-positive" >
+      Call Adapter (scope default)
+    </button>
+
+
+
+     <button ng-click="registerDevice()" class="button button-block button-positive">
+      registerDevice {{registerDevice}}
+    </button>
+
+
+    Push Message:{{message | json}}
+    <p>Resultado:
+    <div id="resultGreet">
+    </div>
+  </p>
+
+
+  </ion-content>
+</ion-view>
