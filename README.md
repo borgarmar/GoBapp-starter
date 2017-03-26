@@ -1,4 +1,4 @@
-# GoBapp-starter
+# Game Of Bluemix Starter App
 Este repositorio ha sido diseñado para relizar los laboratorios de las sesiones de **Game of Bluemix Experienced Mobile and IOT**.
 
 Durante esta sesión se creará paso a paso una aplicación móvil para Android utilizando el framework **Ionic** para demostrar el valor y capacidades de las siguientes soluciones en **IBM Bluemix** ( http://bluemix.net ) :
